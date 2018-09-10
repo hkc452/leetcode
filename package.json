@@ -1,0 +1,27 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "kc's leetcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkc452/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "kc"
+  ],
+  "author": "kc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkc452/leetcode/issues"
+  },
+  "homepage": "https://github.com/hkc452/leetcode#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
